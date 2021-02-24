@@ -2,7 +2,7 @@
 title: Overview
 sections:
   - section_id: hero
-    type: section_hero
+    type: section_titre
     title: Overview
     image: images/5.jpg
     content: An optional subtitle
