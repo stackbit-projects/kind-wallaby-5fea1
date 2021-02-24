@@ -2,7 +2,7 @@
 title: Showcase
 sections:
   - section_id: hero
-    type: section_hero
+    type: section_titre
     title: Showcase
     image: images/5.jpg
     content: This is an optional page subtitle
