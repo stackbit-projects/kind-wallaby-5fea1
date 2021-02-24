@@ -102,4 +102,10 @@ sections:
         url: /docs/getting-started/installation
         style: primary
 layout: advanced
+seo:
+  title: ''
+  description: ''
+  robots: []
+  extra: []
+  type: stackbit_page_meta
 ---
