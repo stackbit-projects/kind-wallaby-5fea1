@@ -216,7 +216,7 @@ models:
             - section_cta
             - section_docs
             - section_grid
-            - section_hero
+            - section_titre
       - type: model
         name: seo
         models:
