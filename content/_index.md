@@ -2,7 +2,7 @@
 title: Home
 sections:
   - section_id: hero
-    type: section_hero
+    type: section_titre
     title: Hero Hein ?
     image: images/5.jpg
     content: >-
