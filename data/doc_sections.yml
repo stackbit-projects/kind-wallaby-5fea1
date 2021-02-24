@@ -1,7 +1,7 @@
 root_docs_path: /docs
 sections:
   - About
-  - getting-started
+  - getting started
   - ui-components
   - manage-content
   - tools
