@@ -1,5 +1,5 @@
 {{ define "content" }}
-
+<p>PAAP ? </p>
 {{ range $section := .Params.sections }}
   {{ $include_dict := dict "section" $section "Site" $.Site }}
   {{ $component := print $section.type ".html" }}
