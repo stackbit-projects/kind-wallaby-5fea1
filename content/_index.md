@@ -58,7 +58,6 @@ sections:
           - label: Learn More
             url: /style-guide
             style: link
-
   - section_id: features-two-col
     type: section_grid
     title: Sample Layouts
