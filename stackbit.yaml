@@ -426,7 +426,7 @@ models:
           type: model
           models:
             - grid_item
-  section_hero:
+  section_titre:
     type: object
     label: Hero Section
     extends:
